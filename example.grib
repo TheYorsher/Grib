@@ -1,0 +1,51 @@
+GRIB1_HEADER:
+    Discipline: 0 (Meteorological Products)
+    Edition: 1
+    GRIB Master Table Version Number: 2
+    Originating Center: 7 (US National Weather Service, NCEP)
+    Originating Sub-center: 0
+    Table Version Number: 128
+    Product Definition Template Number: 2
+    Parameter Category: 0 (Meteorological Products)
+    Parameter Number: 1 (Temperature)
+    Type of Generating Process: 2 (Forecast)
+    Background Process: 0 (Analysis)
+    Generating Process Identifier: 1
+    Hours After Reference Time: 0
+    Minutes After Reference Time: 0
+    Time Range Indicator: 0 (Analysis)
+    Fixed Surface Type: 1 (Ground or Water Surface)
+    Fixed Surface Value: 0
+    Binary Scale Factor: 0
+    Decimal Scale Factor: 1
+    Reference Value: 273.15
+    Section 4 Length: 218
+
+GRID_DESCRIPTION_SECTION:
+    Number of Data Points: 172800
+    Interpretation of list: 0 (Point Data)
+    Grid Definition Template Number: 0
+    Shape of Earth: 6 (Earth assumed oblate spheroid with size 6,378,137.0 m, and flattening f = 1/298.257)
+    Radius of Earth: 6378137
+    Major axis: 6378137
+    Minor axis: 6356752.314
+    Ni: 360
+    Nj: 480
+    Basic angle of the initial production domain: 0
+    Subdivisions of basic angle used to define extreme longitudes and latitudes: 0
+    La1: 90
+    Lo1: 0
+    Resolution and component flags: 48
+    La2: -90
+    Lo2: 359
+    Dx: 10000
+    Dy: 10000
+    Projection center flag: 0
+    Scanning mode: 0 (adjacent points scan in the +i direction)
+    Grid Description Length: 208
+
+BITMAP_SECTION:
+    Bitmap Indicator: 255
+
+DATA_SECTION:
+    Data: 152132165111
